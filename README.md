@@ -45,5 +45,5 @@
 
 ## 参考资料
 
-- Fama, E. F., & French, K. R. (1992). The Cross‑Section of Expected Stock Returns. *The Journal of Finance*, 47(2), 427–465.
+- Fama, E. F., & French, K. R. (1992). The Cross-Section of Expected Stock Returns. *The Journal of Finance*, 47(2), 427–465.
 - Hirshleifer, D., Hou, K., Teoh, S. H., & Zhang, Y. (2004). Do Investors Overvalue Firms with Bloated Balance Sheets? *Journal of Accounting and Economics*, 38, 297–331.
