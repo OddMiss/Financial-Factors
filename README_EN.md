@@ -47,6 +47,5 @@ The project is organized as Jupyter Notebooks and depends on common Python analy
 
 ## References
 
-- Fama, E. F., & French, K. R. (1992). The Cross‑Section of Expected Stock Returns.
-- Do Investors Overvalue Firms with Bloated Balance Sheets?
-
+- Fama, E. F., & French, K. R. (1992). The Cross‑Section of Expected Stock Returns. *The Journal of Finance*, 47(2), 427–465.
+- Hirshleifer, D., Hou, K., Teoh, S. H., & Zhang, Y. (2004). Do Investors Overvalue Firms with Bloated Balance Sheets? *Journal of Accounting and Economics*, 38, 297–331.
